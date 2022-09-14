@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(101, 107, 108);
+}
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+p {
+    font-size: 22px;
+}
+h1 {
+    font-size: 60px; 
+    margin-bottom: auto; 
+    margin-top: auto; 
+}
+h1:hover {
+    color: rgb(228, 228, 228);
+}
+h2 {
+    font-size: 40px;
+}
+h2:hover {
+    color: rgb(228, 228, 228);
+}
+.main-courses-list {
+    font-size: 22px;
+    font-weight: bold;
+}
+.html-list, .css-list {
+    font-size: 20px;
+    font-weight: normal;
+}
+.footer-link {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: #000;
+}
+.footer-link:hover {
+    color: rgb(228, 228, 228);
+}
